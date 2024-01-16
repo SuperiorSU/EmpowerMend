@@ -1,0 +1,9 @@
+.abbo{
+    position:absolute;
+    z-index: 1000;
+    
+    width: 60px;
+    background: #fff;
+    right: 50px;
+    
+}

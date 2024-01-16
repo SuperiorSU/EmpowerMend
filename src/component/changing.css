@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  .bg-card{
+      background-color: #edf8ff;
+  }
+}
+body{
+  padding: 16px;
+}
+.spacer{
+  padding: 30px;
+}
